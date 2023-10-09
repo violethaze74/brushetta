@@ -12,7 +12,7 @@ require (
 	github.com/cli/go-gh v0.0.4-0.20220725193052-79f89db738dc
 	github.com/cli/oauth v0.9.0
 	github.com/cli/safeexec v1.0.0
-	github.com/cli/shurcooL-graphql v0.0.1
+	github.com/cli/shurcooL-graphql v0.0.4
 	github.com/cpuguy83/go-md2man/v2 v2.0.2
 	github.com/creack/pty v1.1.18
 	github.com/gabriel-vasile/mimetype v1.4.1
